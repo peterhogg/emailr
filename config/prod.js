@@ -4,4 +4,6 @@ module.exports = {
 	googleClientSecret: process.env.googleClientSecret ,
 	mongoURI : process.env.mongoURI ,
 	cookieKey : process.env.cookieKey  ,
+	stripePk : process.env.stripePk,
+	stripeSk : process.env.stripeSk,
 };
