@@ -7,4 +7,5 @@ module.exports = {
 	stripePk : process.env.stripePk,
 	stripeSk : process.env.stripeSk,
 	sendgridKey: process.env.sendgridKey,
+	redirectDomain: process.env.redirectDomain,
 };
